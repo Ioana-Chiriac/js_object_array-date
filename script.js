@@ -113,5 +113,24 @@ console.log(`an`, date.getFullYear());
 // acesare luna
 const months = ["Ianuarie", "Februaie", "Martie"];
 
-console.log
+
+// tema curs 10
+const fructe = [ "mar", "portocala"];
+const legume = [ "morcov", "brocoli"];
+
+console.log ( fructe);
+
+const alimente = fructe +`, `+ legume;
+console.log(`alimente:`, alimente);
+
+// adaug elemet
+
+const elementNou = "banana";
+fructe.push(elementNou);
+
+console.log(fructe);
+const element = "banana";
+
+
+
 
